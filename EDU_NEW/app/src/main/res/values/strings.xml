@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">edu48</string>
+    <string name="help1"> 1. 왼쪽, 오른쪽, 아래, 위로 스와이프하여 타일을 이동시켜보세요.</string>
+    <string name="help2"> 2. 두 타일이 겹칠 때 동일한 값이면 하나로 합쳐집니다.</string>
+</resources>
